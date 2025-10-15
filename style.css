@@ -33,7 +33,7 @@
   border-top-right-radius: 100px;
   border-bottom: 0;
   box-sizing: border-box;
-  background: #f973d8;
+  background: #ff59d6f0;
 }
 
 .legs {
@@ -55,7 +55,7 @@
   position: relative;
   width: 5vmin;
   height: 5vmin;
-  background-color: #FF3737;
+  background-color: #faa2a2;
   transform: translate(22vmin, 6vmin) rotate(25deg) scale(0.5);
 }
 
@@ -70,7 +70,7 @@
   -moz-border-radius: 50%;
   -o-border-radius: 50%;
   border-radius: 50%;
-  background-color: #FF3737;
+  background-color: #faa2a2;
 }
 
 .heart:after {
@@ -86,7 +86,7 @@
   -o-border-radius: 50%;
   border-radius: 50%;
  
-  background-color: #FF3737;
+  background-color: #faa2a2;
 }
 
 .eyes {
